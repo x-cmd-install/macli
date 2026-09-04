@@ -7,7 +7,7 @@ about:
   head: a78307f
   archived: false
   latestVersion: v0.5.0
-  collectedAt: 2026-09-04T19:26:56Z
+  collectedAt: 2026-09-04T21:06:38Z
 timeline:
   created: 2026-02-21
   lastCommit: 2026-07-19
@@ -83,6 +83,69 @@ total:
   openIssue: 0
   commit: 130
 ---
+path: /home/runner/.x-repo/github.com/ljh-sh/macli
+collectedAt: 2026-09-04T21:06:39Z
+loc:
+  Swift:
+    code: 3644
+    comments: 60
+    blanks: 485
+    files: 37
+  ObjectiveC:
+    code: 709
+    comments: 22
+    blanks: 189
+    files: 3
+  Sass:
+    code: 203
+    comments: 0
+    blanks: 42
+    files: 1
+  Bash:
+    code: 121
+    comments: 5
+    blanks: 19
+    files: 1
+  JavaScript:
+    code: 76
+    comments: 0
+    blanks: 14
+    files: 1
+  Html:
+    code: 65
+    comments: 0
+    blanks: 2
+    files: 1
+  Json:
+    code: 38
+    comments: 0
+    blanks: 0
+    files: 1
+  CHeader:
+    code: 31
+    comments: 6
+    blanks: 17
+    files: 4
+  Yaml:
+    code: 19
+    comments: 0
+    blanks: 5
+    files: 1
+  Markdown:
+    code: 0
+    comments: 4158
+    blanks: 1616
+    files: 45
+  Text:
+    code: 0
+    comments: 169
+    blanks: 34
+    files: 1
+total:
+  code: 4974
+  comments: 4420
+  blanks: 2423
+  files: 96
 ---
 date: "2026-08-30T01:56:05Z"
 repo:
