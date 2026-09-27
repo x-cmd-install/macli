@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 136788,
       "digest": "sha256:0f30821d7e94e858ebee27fc47c65da462d0bf2700b76b77021f1d538de39cf1",
-      "download_count": 6,
+      "download_count": 8,
       "created_at": "2026-06-25T01:29:26Z",
       "updated_at": "2026-06-25T01:29:26Z",
       "browser_download_url": "https://github.com/ljh-sh/macli/releases/download/v0.5.0/macli-darwin-arm64.tar.xz"
