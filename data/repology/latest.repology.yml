@@ -1,0 +1,24 @@
+- repo: aur
+  srcname: macli
+  binname: macli
+  visiblename: macli
+  version: v1.21.0
+  origversion: v1.21.0-1
+  status: unique
+  summary: Unofficial CLI-Based MyAnimeList Client
+  maintainers:
+    - vidhukant@aur
+  licenses:
+    - GPL
+- repo: aur
+  srcname: macli-git
+  binname: macli-git
+  visiblename: macli-git
+  version: v1.20.5
+  origversion: v1.20.5-1
+  status: rolling
+  summary: Unofficial CLI-Based MyAnimeList Client
+  maintainers:
+    - vidhukant@aur
+  licenses:
+    - GPLv3
