@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 289248,
       "digest": "sha256:693a8532ccb7b3e6443b7d90211e9f80d4e2d37895c8c9fea832c3d37d4cc009",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-06-25T01:29:26Z",
       "updated_at": "2026-06-25T01:29:26Z",
       "browser_download_url": "https://github.com/ljh-sh/macli/releases/download/v0.5.0/macli-darwin-universal.tar.xz"
