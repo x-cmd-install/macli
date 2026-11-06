@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-06 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-07 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-09 | 9 | 58 | 5 | 23 | 0 | 127 |
-| 360d | 2025-11-10 | 9 | 58 | 5 | 23 | 0 | 128 |
-| last720d | 2024-11-15 | 9 | 58 | 5 | 23 | 0 | 130 |
+| 30d | 2026-10-07 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-07 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-08 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-10 | 9 | 58 | 5 | 23 | 0 | 127 |
+| 360d | 2025-11-11 | 9 | 58 | 5 | 23 | 0 | 128 |
+| last720d | 2024-11-16 | 9 | 58 | 5 | 23 | 0 | 130 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for macli lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T07:37:51Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T07:17:18Z._
